@@ -1,7 +1,6 @@
 # Some tips about the installation of tensorflow
 - 1 download python<br>
-**64bit!!**<br>[https://www.python.org/downloads/release/python](https://www.python.org/downloads/release/python)
-<br>
+**64bit!!**<br>[https://www.python.org/downloads/release/python](https://www.python.org/downloads/release/python)<br>
 - 2 download tensorflow<br> [https://www.lfd.uci.edu/~gohlke/pythonlibs/](https://www.lfd.uci.edu/~gohlke/pythonlibs/)<br>
 put the file under the path:Python->Script<br>
 - 3 open the console, get into the path and input 'pip install tensorflow'
