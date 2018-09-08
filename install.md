@@ -6,7 +6,7 @@
 put the file under the path:Python->Script<br>
 - 3 open the console, get into the path and input 'pip install tensorflow'
 ![install tensorflow](https://github.com/ThanksMonica/tensorflow-learning/blob/master/1.png)
-![install sucessfully](https://github.com/ThanksMonica/tensorflow-learning/blob/master/2.png)<br>~~ignore the warning : )~~
+![install sucessfully](https://github.com/ThanksMonica/tensorflow-learning/blob/master/2.png)<br>~~ignore the warning : )~~<br> 
 - 4 test in python<br>
 open python and input 'import tensorflow'
 ![test](https://github.com/ThanksMonica/tensorflow-learning/blob/master/3.png)
